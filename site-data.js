@@ -38,7 +38,7 @@ Currently I am working with Uniqway and Fomora ( Social Media Marketing Agencies
 
   showreel: {
     title: "Showreel",
-    description: "(placeholder) A short cut of my best work.",
+    description: " A short cut of my best work.",
     video: "https://youtube.com/shorts/2VkQEvqQFeg?feature=share",       // paste your showreel link here
     thumb: "https://drive.google.com/file/d/1n2Gt0uj1IkyZAF4_gHQwjDZplqVy43Zv/view?usp=sharing",       // optional image link
     duration: "0:48"     // e.g. "1:00"
