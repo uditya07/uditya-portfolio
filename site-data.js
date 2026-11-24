@@ -16,10 +16,10 @@ window.SITE = {
   intro: "Professional video editor shaping raw footage into clear, gripping visual stories through precise cuts, rhythm, colour and sound. Commercials, reels, cinematic edits, talking-head videos and wedding films.",
 
   contact: {
-    phone: { display: "+91 00000 00000", href: "+910000000000" },   // (placeholder) href: digits with country code, no spaces
-    whatsapp: { display: "+91 00000 00000", number: "910000000000" },   // (placeholder) number: digits with country code, no + or spaces
-    email: "hello@example.com",                                      // (placeholder)
-    instagram: { handle: "@your.handle", url: "https://instagram.com/your.handle" }, // (placeholder)
+    phone: { display: "+91 60024 92649", href: "+916002492649" },   // (placeholder) href: digits with country code, no spaces
+    whatsapp: { display: "+91 80116 64235", number: "918011664235" },   // (placeholder) number: digits with country code, no + or spaces
+    email: "udityapratimdas@gmail.com",                                      // (placeholder)
+    instagram: { handle: "@b2k.editzzz", url: "https://www.instagram.com/b2k.editzzz?cnvx=MWY5MmIxamk1NXJqbA==" }, // (placeholder)
     ctaText: "Let’s Work Together",
     ctaSubject: "Project enquiry from your portfolio"
   },
@@ -28,10 +28,10 @@ window.SITE = {
     intro: "(placeholder) A short introduction: who you are and what you do.",
     experience: "(placeholder) Your experience: years editing, kinds of projects, notable work you can share.",
     approach: "(placeholder) Your editing approach: how you plan the story, pacing, colour and sound.",
-    software: ["(placeholder) Your editing software", "(placeholder) Your colour tool", "(placeholder) Your audio tool", "(placeholder) Your motion graphics tool"]
+    software: ["Davinci Resolve and Capcut", "(placeholder) Your colour tool", "(placeholder) Your audio tool", "(placeholder) Your motion graphics tool"]
   },
 
-  services: ["Video editing", "Colour grading", "Sound design", "Motion titles", "Short-form reels"],  // edit to match what you offer
+  services: ["Video editing", "Colour grading", "Sound design", "", "Short-form reels"],  // edit to match what you offer
 
   showreel: {
     title: "Showreel",
