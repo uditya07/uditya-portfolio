@@ -25,8 +25,11 @@ window.SITE = {
   },
 
   about: {
-    intro: "(placeholder) A short introduction: who you are and what you do.",
-    experience: "(placeholder) Your experience: years editing, kinds of projects, notable work you can share.",
+    intro: "I'm Uditya, a  video editor. I work on different types of videos, from reels and commercial content to cinematic edits. My goal is simple : add a hook, maintain a storyline with appropriate pacing.&#x20;
+",
+    experience: "I've been editing videos for around 4 years, working with different types of content, including reels, promotional videos, cinematic edits and more.&#x20;
+
+Currently I am working with Uniqway and Fomora ( Social Media Marketing Agencies )",
     approach: "(placeholder) Your editing approach: how you plan the story, pacing, colour and sound.",
     software: ["Davinci Resolve and Capcut", "(placeholder) Your colour tool", "(placeholder) Your audio tool", "(placeholder) Your motion graphics tool"]
   },
