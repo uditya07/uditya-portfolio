@@ -31,7 +31,7 @@ window.SITE = {
     software: ["Davinci Resolve and Capcut", "(placeholder) Your colour tool", "(placeholder) Your audio tool", "(placeholder) Your motion graphics tool"]
   },
 
-  services: ["Video editing", "Colour grading", "Sound design", "", "Short-form reels"],  // edit to match what you offer
+  services: ["Video editing", "Colour grading", "Sound design", "Short-form reels"],  // edit to match what you offer
 
   showreel: {
     title: "Showreel",
